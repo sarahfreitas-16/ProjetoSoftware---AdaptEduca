@@ -1,0 +1,2 @@
+# ProjetoSoftware---AdaptEduca
+Trabalho escolar
